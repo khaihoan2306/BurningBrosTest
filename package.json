@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.66.8",
     "react": "19.0.0",
-    "react-native": "0.78.0"
+    "react-native": "0.78.0",
+    "react-native-fast-image": "^8.6.3"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
